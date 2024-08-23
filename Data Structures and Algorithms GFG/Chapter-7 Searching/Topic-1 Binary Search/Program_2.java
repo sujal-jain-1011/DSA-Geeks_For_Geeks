@@ -84,7 +84,7 @@ class Program_2{
 
         /*Member Function of class:
         to implement Binary Search in 
-        an Array: Iterative Approach*/
+        an Array: Recursive Approach*/
         void binary_search(int element, int low, int high)
         {
             if(low>high)
